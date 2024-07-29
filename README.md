@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1n_Fvbyh2JbKhVSwLFd5Sb2h0E1pTnNHE/view?usp=drive_link)
 
-- ⚡ Fun fact **Coffee and Data: The Perfect Blend**
+- ⚡ Fun fact **Data tells stories; I turn them into actionable insights.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
