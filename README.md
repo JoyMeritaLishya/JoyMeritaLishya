@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **lishyaamal97@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1TRuZqyNrQCA3eFtzOpxz3VHln6h_iQJc/view?usp=drive_link)
 
 - ⚡ Fun fact **Data tells stories; I turn them into actionable insights.**
 
