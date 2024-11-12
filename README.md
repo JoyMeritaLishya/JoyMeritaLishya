@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joymeritalishya&label=Profile%20views&color=0e75b6&style=flat" alt="joymeritalishya" /> </p>
 
-- 🔭 I’m currently working on **InternQ Projects**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **ML with Python**
+- 🌱 I’m currently learning **AI, ML, Data Analytics and more**
 
-- 💬 Ask me about **MySQL,Python, Power BI, MS Excel**
+- 💬 Ask me about **MySQL, Python, ML Frameworks, ML Algorithms, Power BI, MS Excel**
 
 - 📫 How to reach me **lishyaamal97@gmail.com**
 
